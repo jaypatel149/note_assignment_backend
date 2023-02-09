@@ -1,5 +1,5 @@
-1. setup mysql ,express js , cors 
+1. setup mysql 
 
-2. npm i
+2. npm i , express , cors
 
 3. nodemon index.js
